@@ -1,3 +1,3 @@
-module github.com/SPRkair/TEST
+module TEST
 
 go 1.18
