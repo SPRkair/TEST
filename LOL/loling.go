@@ -1,5 +1,5 @@
 package LOL
 
-func testLol() string {
+func TestLol() string {
 	return "not OK"
 }
